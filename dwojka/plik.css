@@ -1,0 +1,35 @@
+﻿.container{
+    padding-top: 30px;
+	margin-left: 20px;
+}
+
+#receiver{
+	width: 30%;
+}
+body {
+    background-color: lightblue;
+}
+
+#label{
+	width: 30%;
+}
+
+#name{
+	width: 30%;
+}
+
+#mail{
+	width: 30%;
+}
+
+#phone{
+	width: 30%;
+}
+	  
+#address{
+	width: 30%;
+}
+
+#exampleFormControlTextarea1{
+	width: 30%;
+}
